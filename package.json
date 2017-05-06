@@ -1,0 +1,16 @@
+{
+  "name": "prepack-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate to test prepack with webpack",
+  "main": "entry.js",
+  "repository": "https://github.com/luisrivas/prepack-webpack-boilerplate",
+  "author": "Luis Rivas <luis.rivas024@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "prepack-webpack-plugin": "^1.1.0",
+    "webpack": "^2.5.1"
+  }
+}
